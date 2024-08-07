@@ -35,13 +35,13 @@ const Section2: React.FunctionComponent<ISection2Props> = (props) => {
               Most trusted in our field
             </h1>
             <p className="mt-5 text-center text-base md:text-left">
-              "Kebutuhan tentang pelayanan laboratorium pengujian yang cepat dan
+              Kebutuhan tentang pelayanan laboratorium pengujian yang cepat dan
               informatif semakin terasa dibutuhkan, oleh karenanya layanan
               berbasis IT dalam pelayanan laboratorium pengujian/kalibrasi yang
               sesuai prinsip-prinsip SNI ISO /IEC 17025:2017 menjadi sebuah
               keharusan agar laboratorium pengujian/kalibrasi dapat semakin
               melayani pelanggan lebih efisien dan efektif. Oleh karenanya, PT
-              Digital Laboratorium Indonesia ( DG Lab Indonesia ), perusahaan
+              Digital Laboratorium Indonesia, perusahaan
               yang bergerak dalam bidang Digital, hadir untuk menjawab kebutuhan
               laboratorium pengujian/kalibrasi dalam membuat sistem manajemen
               berbasis digital yang berdasarkan prinsip-prinsip sesuai SNI ISO
